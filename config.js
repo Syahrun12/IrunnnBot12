@@ -1,4 +1,4 @@
-global.owner = ['6283175886677']  
+global.owner = ['6285267381129','6283175886677']  
 global.mods = ['6285267381129'] 
 global.prems = ['6285267381129']
 global.nameowner = 'Syahrun'
